@@ -5,7 +5,7 @@ import xlwings as xw
 from math import ceil
 import time
 import msvcrt
-
+import django
 ''' 
 # 从美式计数法如 1,999.13 转换为普通的数值,
 # 传入值为一个美式计数法的数字字符串，
